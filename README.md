@@ -2,4 +2,4 @@
 Ambiente para cursos feitos na DIO
 
 ## Links Úteis
-[Sintaxe Básica Markdown] https://marckdownguide.org/basic-sintax/
+[Sintaxe Basica Markdown] (https://markdownguide.org/basic-syntax/)
